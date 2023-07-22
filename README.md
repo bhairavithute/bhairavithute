@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhairavithute
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning full stack developmet
+- 🌱 I’m currently learning full stack developmet 
 
 <!---
 bhairavithute/bhairavithute is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
